@@ -1,0 +1,5 @@
+pymongo==4.2.0
+
+
+
+-e . # editable install for local development it triggers the setup.py file to install the package in development mode, allowing you to make changes to the code and have them reflected immediately without needing to reinstall the package.
